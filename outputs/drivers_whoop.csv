@@ -1,0 +1,11 @@
+topic,impact_stars,mentions,mention_rate,stars_lost_per_100_reviews,confidence
+Subscription & price,-1.179,129,18.143,21.399,ok
+App bugs & updates,-1.252,98,13.783,17.259,ok
+Customer service,-1.068,62,8.72,9.315,ok
+Sync & connectivity,-0.952,48,6.751,6.425,ok
+Accuracy,-0.496,82,11.533,5.724,ok
+Sleep tracking,-0.022,92,12.94,0.282,ok
+Battery & charging,-0.053,16,2.25,0.118,low (few mentions)
+Hardware & comfort,0.003,55,7.736,0.0,ok
+"Strain, recovery & HRV",0.287,55,7.736,0.0,ok
+Insights & coaching,0.186,157,22.082,0.0,ok

@@ -1,0 +1,21 @@
+brand,topic,mentions,mention_rate,share_of_negative,share_of_positive,avg_rating_when_mentioned,churn_rate_when_mentioned
+Oura,Subscription & price,166,13.88,25.11,4.19,2.04,15.66
+Oura,App bugs & updates,282,23.58,36.44,11.66,2.37,3.55
+Oura,Sync & connectivity,164,13.71,22.67,5.28,2.23,6.1
+Oura,Battery & charging,145,12.12,17.33,5.83,2.46,3.45
+Oura,Accuracy,147,12.29,13.11,10.38,2.98,4.76
+Oura,Hardware & comfort,57,4.77,5.11,3.83,3.0,7.02
+Oura,Customer service,74,6.19,9.78,3.64,2.41,8.11
+Oura,Sleep tracking,271,22.66,19.11,24.23,3.33,5.54
+Oura,"Strain, recovery & HRV",49,4.1,3.11,3.28,3.16,6.12
+Oura,Insights & coaching,114,9.53,6.44,12.2,3.62,2.63
+Whoop,Subscription & price,129,18.14,33.46,7.77,2.16,18.6
+Whoop,App bugs & updates,98,13.78,23.79,4.29,2.1,3.06
+Whoop,Sync & connectivity,48,6.75,12.27,2.68,2.08,4.17
+Whoop,Battery & charging,16,2.25,2.97,1.88,2.81,6.25
+Whoop,Accuracy,82,11.53,16.36,7.51,2.74,8.54
+Whoop,Hardware & comfort,55,7.74,9.67,6.97,2.96,3.64
+Whoop,Customer service,62,8.72,16.73,3.22,1.92,17.74
+Whoop,Sleep tracking,92,12.94,13.38,12.06,3.22,6.52
+Whoop,"Strain, recovery & HRV",55,7.74,6.32,8.85,3.6,7.27
+Whoop,Insights & coaching,157,22.08,20.07,22.25,3.41,3.18
