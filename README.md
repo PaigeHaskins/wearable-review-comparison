@@ -2,7 +2,7 @@
 
 An interactive dashboard that turns public app reviews into KPIs and retention insights, written from the point of view of a Whoop stakeholder.
 
-**Live dashboard:** _add your Streamlit link here_
+**Live dashboard:** (https://wearable-review-comparison-2026.streamlit.app/)
 
 ## Business question
 What drives customer satisfaction and retention risk for Whoop compared with Oura, and what should Whoop do about it?
